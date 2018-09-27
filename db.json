@@ -2,13 +2,13 @@
 {
   "getJam" : [
     {
-      nama : 'Hafidz Zakky Darmawan',
-      status : 'Hadir',
-      email : 'hafidzzakkyd@gmail.com',
-      npp : '821079',
-      img : '../../assets/imgs/pp.jpg',
-      waktuServer : new Date(),
-      notifBadge : 10
+      "nama" : "Hafidz Zakky Darmawan",
+      "status" : "Hadir",
+      "email" : "hafidzzakkyd@gmail.com",
+      "npp" : 821079,
+      "img" : "../../assets/imgs/pp.jpg",
+      "waktuServer" : new Date(),
+      "notifBadge" : 10
     }
   ],
   "posts": [
